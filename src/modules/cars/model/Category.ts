@@ -1,4 +1,4 @@
-import { v4 as uuidv4 } from 'uuid';
+import { v4 as uuidv4 } from "uuid";
 
 class Category {
   id?: string;
@@ -14,3 +14,4 @@ class Category {
 }
 
 export { Category };
+
